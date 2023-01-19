@@ -1,0 +1,33 @@
+{
+    "BookMark": {
+        "Items": [
+        ]
+    },
+    "BurnCapacityAttribute": {
+        "bus/usb/005/002": {
+            "BurnCapacityStatus": 0,
+            "BurnCapacityTotalSize": 0,
+            "BurnCapacityUsedSize": 0
+        },
+        "bus/usb/005/003": {
+            "BurnCapacityStatus": 0,
+            "BurnCapacityTotalSize": 0,
+            "BurnCapacityUsedSize": 0
+        },
+        "bus/usb/005/004": {
+            "BurnCapacityStatus": 0,
+            "BurnCapacityTotalSize": 0,
+            "BurnCapacityUsedSize": 0
+        }
+    },
+    "GenericAttribute": {
+        "HiddenSystemPartition": false,
+        "IndexFullTextSearch": false,
+        "MergeTheEntriesOfSambaSharedFolders": true,
+        "ShowedHiddenFiles": true
+    },
+    "StashedSmbDevices": {
+        "SmbIntegrations": [
+        ]
+    }
+}

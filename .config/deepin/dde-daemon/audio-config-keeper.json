@@ -1,0 +1,43 @@
+{
+  "alsa_card.pci-0000_00_14.2": {
+    "Name": "alsa_card.pci-0000_00_14.2",
+    "Ports": {
+      "analog-input-internal-mic": {
+        "Name": "analog-input-internal-mic",
+        "Enabled": true,
+        "Volume": 0.5,
+        "IncreaseVolume": false,
+        "Balance": 0,
+        "ReduceNoise": false,
+        "Mute": false
+      },
+      "analog-input-mic": {
+        "Name": "analog-input-mic",
+        "Enabled": true,
+        "Volume": 0.5,
+        "IncreaseVolume": false,
+        "Balance": 0,
+        "ReduceNoise": false,
+        "Mute": false
+      },
+      "analog-output-headphones": {
+        "Name": "analog-output-headphones",
+        "Enabled": true,
+        "Volume": 0.45,
+        "IncreaseVolume": false,
+        "Balance": 0,
+        "ReduceNoise": false,
+        "Mute": false
+      },
+      "analog-output-speaker": {
+        "Name": "analog-output-speaker",
+        "Enabled": true,
+        "Volume": 1,
+        "IncreaseVolume": false,
+        "Balance": 0,
+        "ReduceNoise": false,
+        "Mute": false
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "FileViewState": {
+        "file:///run/media/rawnak/c02da601-4d2c-4eaa-b427-50b1ed56323c": {
+            "iconSizeLevel": 0,
+            "viewMode": 1
+        },
+        "standard://downloads": {
+            "iconSizeLevel": 1,
+            "sortOrder": 1,
+            "sortRole": 262,
+            "viewMode": 1
+        },
+        "standard://downloads/dotfiles-master": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://downloads/dotfiles-master/dotfiles-master/misc/firefox": {
+            "iconSizeLevel": 0,
+            "viewMode": 1
+        },
+        "standard://downloads/master": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://home": {
+            "iconSizeLevel": 0,
+            "viewMode": 2
+        },
+        "standard://home/.config/alacritty/themes": {
+            "iconSizeLevel": 0,
+            "viewMode": 1
+        },
+        "standard://home/.config/bspwm": {
+            "iconSizeLevel": 0,
+            "viewMode": 1
+        },
+        "standard://home/.moc/themes": {
+            "iconSizeLevel": 0,
+            "viewMode": 1
+        },
+        "standard://music": {
+            "iconSizeLevel": 0,
+            "viewMode": 1
+        }
+    },
+    "WindowManager": {
+        "SplitterState": {
+            "sidebar": 200
+        },
+        "WindowState": {
+            "height": 554,
+            "width": 1224
+        }
+    }
+}

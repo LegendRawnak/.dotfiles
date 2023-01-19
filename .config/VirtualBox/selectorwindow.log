@@ -1,0 +1,23 @@
+00:00:02.700031 VirtualBox GUI VM Selector Window 7.0.4 r154605 linux.amd64 (Nov 18 2022 12:54:46) release log
+00:00:02.700035 Log opened 2023-01-11T06:04:38.628745000Z
+00:00:02.700037 Build Type: release
+00:00:02.700041 OS Product: Linux
+00:00:02.700043 OS Release: 5.10.161-1-MANJARO
+00:00:02.700045 OS Version: #1 SMP PREEMPT Wed Dec 21 21:15:06 UTC 2022
+00:00:02.700090 DMI Product Name: HP Pavilion 15 Notebook PC
+00:00:02.700116 DMI Product Version: 0976110000405E00000620180
+00:00:02.700127 Firmware type: UEFI
+00:00:02.700883 Secure Boot: Disabled
+00:00:02.700986 Host RAM: 3115MB (3.0GB) total, 2200MB (2.1GB) available
+00:00:02.700993 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.700994 Process ID: 3080
+00:00:02.700995 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.701063 Qt version: 5.15.7
+00:00:02.726243 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.831771 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:06.113144 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 11x11 x 1344x706
+00:00:06.219321 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:13.658684 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:14.433774 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:45.591310 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:49.752804 GUI: UIMediumEnumerator: Medium-enumeration finished!

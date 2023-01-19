@@ -1,0 +1,10 @@
+{
+    "BurnCapacityAttribute": {
+        "loop0": {
+            "BurnCapacityExt": 0,
+            "BurnCapacityStatus": 0,
+            "BurnCapacityTotalSize": 0,
+            "BurnCapacityUsedSize": 0
+        }
+    }
+}
